@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on [C++ focused university projects](https://github.com/h3l333/cpp-practicas)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 Next semester I will be tackling **Java**
 
 - 📫 How to reach me **cusworth2004@gmail.com**
