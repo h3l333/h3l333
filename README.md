@@ -25,14 +25,6 @@
 
 ---
 
-### ꕤ*.ﾟ GitHub Stats ⋆.🌸*:･
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h3l333&show_icons=true&theme=rose_pine&count_private=true" alt="My GH stats" />
-</p>
-
----
-
 <p align="center">
   <i>Thanks for stopping by! ⋆.🌸*:･ Feel free to check out my repositories below. 🍥</i>
 </p>
