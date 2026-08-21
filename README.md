@@ -1,8 +1,8 @@
 # ⋆.🌸*:･ Hi there, I'm Helena! 🍥
 
->I am a 3rd-year Systems student focused on Software Development, Backend Engineering, and Systems Analysis. I build tools and systems with hands-on experience in C/C++, Python, TypeScript, Java, and PostgreSQL, blending solid technical foundations with international professional exposure.  
+>I am a 3rd-year Systems student focused on software development, backend engineering, and systems analysis. I build tools and systems with hands-on experience in C/C++, Python, TypeScript, Java, and PostgreSQL, blending solid technical foundations with international professional exposure.  
 >Right now, I'm building a Python app focused on Japanese language acquisition and a Java application for event facility reservation management. :>
->In addition to creating software, I also love to cook, draw and enjoy digital sculpting.
+>In addition to creating software, I also love to cook, draw and enjoy digital sculpting and language learning.
 
 ---
 
