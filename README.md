@@ -1,16 +1,38 @@
-## Hi there 👋
+# ⋆.🌸*:･ Hi there, I'm Helena! 🍥
 
-<!--
-**h3l333/h3l333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>I am a 3rd-year Systems student focused on Software Development, Backend Engineering, and Systems Analysis. I build tools and systems with hands-on experience in C/C++, Python, TypeScript, Java, and PostgreSQL, blending solid technical foundations with international professional exposure.  
+>Right now, I'm building a Python app focused on Japanese language acquisition and a Java application for event facility reservation management. :>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack ⋆.❀*:･
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `C` `C++` `Python` `Java` `JavaScript` `TypeScript` |
+| **Backend & APIs** | `Node.js` `Express.js` `FastAPI` `REST APIs` |
+| **Databases** | `PostgreSQL` `MySQL` `MongoDB` |
+| **DevOps & Tools** | `Docker` `Linux` `Git` `GitHub Actions` `Jira` |
+| **Systems & Design** | `UML` `PlantUML` `Agile/Scrum` |
+
+---
+
+### ❀ Languages ⋆.🍥*:･
+
+- **English:** Native / Bilingual
+- **Spanish:** Native / Bilingual
+- **Japanese:** Working proficiency
+
+---
+
+### ꕤ*.ﾟ GitHub Stats ⋆.🌸*:･
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=rose_pine&count_private=true" alt="My GH stats" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! ⋆.🌸*:･ Feel free to check out my repositories below. 🍥</i>
+</p>
