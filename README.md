@@ -1,4 +1,4 @@
-# ⋆.🌸*:･ Hi, I'm Helena! 🍥
+# ⋆.🌸*:･ Hi, I'm Hele! 🍥
 
 >I am a 3rd-year Systems student focused on software development, backend engineering, and systems analysis. I build tools and systems in C/C++, Python, TypeScript, Java, and PostgreSQL. I like solving problems and creating stuff.  
 >Right now, I'm building a Python app focused on Japanese language acquisition and a Java application for event facility reservation management. :>
