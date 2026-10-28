@@ -27,6 +27,4 @@
 
 ---
 
-<p align="center">
-  <i>Thanks for stopping by! ⋆.🌸*:･ Feel free to check out my repositories below. 🍥</i>
-</p>
+Thanks for stopping by! ⋆.🌸*:･ Feel free to check out my repositories below. 🍥
