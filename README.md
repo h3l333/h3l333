@@ -1,6 +1,6 @@
 # ⋆.🌸*:･ Hi, I'm Hele! 🍥
 
->I am a 3rd-year Systems student focused on software development, backend engineering, and systems analysis. I build tools and systems in C/C++, Python, TypeScript, Java, and PostgreSQL. I like solving problems and creating stuff.  
+>I am a 3rd-year Systems student focused on software development, backend engineering, and systems analysis. I like solving problems and creating stuff.  
 >Right now, I'm building a Python app focused on Japanese language acquisition and a Java application for event facility reservation management. :>
 >In addition to creating software, I also love to cook, draw and enjoy digital sculpting and language learning.
 
@@ -10,8 +10,9 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | `C` `C++` `Python` `Java` `JavaScript` `TypeScript` |
+| **Languages** | `C` `Python` `Java` `JavaScript` `TypeScript` `Dart` |
 | **Backend & APIs** | `Node.js` `Express.js` `FastAPI` `REST APIs` |
+| **Frameworks & Libraries** | `Flutter` |
 | **Databases** | `PostgreSQL` `MySQL` `MongoDB` |
 | **DevOps & Tools** | `Docker` `Linux` `Git` `GitHub Actions` `Jira` |
 | **Systems & Design** | `UML` `PlantUML` `Agile/Scrum` |
